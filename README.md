@@ -1,7 +1,7 @@
  ## SustAlnify
 
 #### Created an ML/ DL model for the prediction of daily average electricity prices at the Power Exchange using the Power Exchange Data for the year 2010 to 2017.
-#### Predict the daily average electricity prices for all the days in the year 2018 and store it in a CSV file having two columns: ‘Date’ and ‘Predicted Average Price (EUR/MWh)’.
+#### Predict the daily average electricity prices for all the days in the year 2018 and stored it in a CSV file having two columns: ‘Date’ and ‘Predicted Average Price (EUR/MWh)’.
  
 #### Initially the data had to be done a lot of the preprocessing as it had a lot of the outliers and the uneven values. For the pre processing first we replaced the outliers with the average of its neighbours. And then grouped the data of the each of the year according to the mean and indexes.
  
